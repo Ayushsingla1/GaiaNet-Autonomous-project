@@ -43,7 +43,7 @@ A **decentralized AI chatbot** to assist users with any queries or concerns in r
    cd GaiaNet-project
    ```
 
-3. **Now you can refer to the readme files in the individual folder""
+3. **Now you can refer to the readme files in the individual folder**
 
 ## Tech Stack
 
