@@ -68,3 +68,11 @@ A **decentralized AI chatbot** to assist users with any queries or concerns in r
 - **Tanmay Gupta**
   - Contact - +91 6375405568
   - Email - tanmaygupta.0215@gmail.com
+
+## Note 
+In order to properly integrate the dependencies, I cloned the following two repositories and placed them in the same parent folder as the main project:
+
+Dependency Repo 1: https://github.com/Ayushsingla1/Ticketing-web3
+This repository is responsible for [Frontend].
+Dependency Repo 2: https://github.com/Ayushsingla1/Backend-ticketing
+This repository is responsible for [Backend].
