@@ -59,15 +59,9 @@ A **decentralized AI chatbot** to assist users with any queries or concerns in r
 
 ## Contributors
 
-- **Dev Aggarwal**
-  - Contact - +91 9025970630
-  - Email - agr.dev1009@gmail.com
 - **Ayush Singla**
   - Contact - +91 9416855609
   - Email - ayushsingla1122@gmail.com
-- **Tanmay Gupta**
-  - Contact - +91 6375405568
-  - Email - tanmaygupta.0215@gmail.com
 
 ## Note 
 In order to properly integrate the dependencies, I cloned the following two repositories and placed them in the same parent folder as the main project:
